@@ -14,10 +14,9 @@ import java.util.List;
 public class test {
     public static void main(String[] args) throws IOException {
 
-        // deleteUser();
-        findAll();
-        findAll();
 
+        findAll();
+        findByid(2);
     }
 
 
